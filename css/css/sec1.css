@@ -1,0 +1,13 @@
+.sec1{
+    height: 100vh;
+    background: url(../../img/sec1bg.png) no-repeat center / cover;
+}
+
+h1{
+    padding-top: 50%;
+    transform: translateY(-47%);
+    color: #ffffff;
+    font-size: 4em;
+    line-height: 80px;
+    cursor: default;
+}

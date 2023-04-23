@@ -1,0 +1,25 @@
+header{
+    height: 70px;
+    background-color: rgba(16, 16, 16, 0.192);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 99999;
+    backdrop-filter: blur(10px);
+}
+
+.logo{
+    width: 50px;
+}
+
+.menu{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: -1px;
+    font-size: 0.9em;
+}

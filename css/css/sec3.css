@@ -1,0 +1,17 @@
+.sec3{
+    height: 100vh;
+    background: url(../../img/sec3bg.webp) no-repeat left / cover;
+    position: relative;
+}
+
+.sec3_textbox{
+    position: absolute;
+    right: 200px; bottom: 200px;
+    width: 30%; height: 50%;
+    background-color: #0000008c;
+    backdrop-filter: blur(40px);
+}
+
+.sec3_textbox .text{
+    font-weight: 600;
+}
